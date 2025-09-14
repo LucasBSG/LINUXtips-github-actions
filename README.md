@@ -80,4 +80,4 @@ Ao completar este workflow com sucesso, você ganha o badge:
 **Feito pela comunidade LINUXtips.**
 
 
-Agradeço a LINUXtips e a comunidade por criar e manter um material tão acessível. É gratificante fazer parte disso! Ass: Lucas Camanducci
+Agradeço a LINUXtips e a comunidade por criar e manter um material tão acessível. É gratificante fazer parte disso! Ass: Lucas Camanducci :)
